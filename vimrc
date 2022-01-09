@@ -21,7 +21,6 @@ map <silent> <C-t> :NERDTreeToggle<CR>
 
 " Colors
 set background=dark
-colorscheme eldar 
 
 set hidden
 noremap <Up> <NOP>
